@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0198-house-robber](https://github.com/sanjanav2102/LeetCode-Solutions/tree/master/0198-house-robber) |
+| [0200-number-of-islands](https://github.com/sanjanav2102/LeetCode-Solutions/tree/master/0200-number-of-islands) |
 | [0724-find-pivot-index](https://github.com/sanjanav2102/LeetCode-Solutions/tree/master/0724-find-pivot-index) |
 | [1603-running-sum-of-1d-array](https://github.com/sanjanav2102/LeetCode-Solutions/tree/master/1603-running-sum-of-1d-array) |
 ## Prefix Sum
@@ -37,4 +38,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3447-clear-digits](https://github.com/sanjanav2102/LeetCode-Solutions/tree/master/3447-clear-digits) |
+## Depth-First Search
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/sanjanav2102/LeetCode-Solutions/tree/master/0200-number-of-islands) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/sanjanav2102/LeetCode-Solutions/tree/master/0200-number-of-islands) |
+## Union Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/sanjanav2102/LeetCode-Solutions/tree/master/0200-number-of-islands) |
+## Matrix
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/sanjanav2102/LeetCode-Solutions/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
