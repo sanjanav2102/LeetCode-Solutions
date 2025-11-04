@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/sanjanav2102/LeetCode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0053-maximum-subarray](https://github.com/sanjanav2102/LeetCode-Solutions/tree/master/0053-maximum-subarray) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sanjanav2102/LeetCode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0198-house-robber](https://github.com/sanjanav2102/LeetCode-Solutions/tree/master/0198-house-robber) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/sanjanav2102/LeetCode-Solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/sanjanav2102/LeetCode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sanjanav2102/LeetCode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/sanjanav2102/LeetCode-Solutions/tree/master/0283-move-zeroes) |
 ## Binary Search
