@@ -1,15 +1,10 @@
 class Solution:
     def moveZeroes(self, nums):
-        temp=[]
-        z = 0
-        n = len(nums)
-        for i in range(len(nums)):
+        e = len(nums)
+        l,r=0,0
+        for i in range(0,e):
             if nums[i] != 0:
-                temp.append(nums[i])
-            else:
-                z+=1
-        nz = len(temp)
-        for i in range(0,nz):
-            nums[i] = temp[i]
-        for i in range(n-z,n):
-            nums[i]= 0
+                nums[l],nums[i] = nums[i],nums[l]
+                l+=1
+            
+        
