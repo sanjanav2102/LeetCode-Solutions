@@ -14,7 +14,7 @@ class Solution(object):
             r_max.append(max(r_max[-1], height[r]))
         r_max.reverse()
         for i in range(0,len(height)):
-            ans[i] = max(0, min(l_max[i], r_max[i]) - height[i])
+            ans[i] = min(l_max[i], r_max[i]) - height[i]
         return sum(ans)
 
 
