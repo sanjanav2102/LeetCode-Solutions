@@ -10,13 +10,14 @@ class Solution(object):
         :type head: Optional[ListNode]
         :rtype: Optional[ListNode]
         """
-        '''
+        
         slow = head
         fast = head
         while fast and fast.next:
             slow = slow.next
             fast = fast.next.next
-        return slow'''
+        return slow
+        '''
         size = 0
         current = head
         while current:
@@ -26,4 +27,4 @@ class Solution(object):
         current = head
         for i in range(0,half):
             current = current.next
-        return current
+        return current'''
