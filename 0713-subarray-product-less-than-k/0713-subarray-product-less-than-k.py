@@ -1,5 +1,7 @@
 class Solution(object):
     def numSubarrayProductLessThanK(self, nums, k):
+        if k <= 1:
+            return 0
         left = 0
         prod = 1
         count = 0
