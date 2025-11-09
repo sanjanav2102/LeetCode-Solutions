@@ -6,7 +6,7 @@
 
 class Solution(object):
     def hasCycle(self, head):
-        l = []
+        '''l = []
         current = head
         while current and current.next:
             if current in l:
@@ -15,5 +15,14 @@ class Solution(object):
                 l.append(current)
                 current = current.next
                
+        return False'''
+        slow =head
+        fast = head
+        while (fast!= None and fast.next!= None):
+            slow = slow.next
+            fast = fast.next.next
+
+            if(slow == fast):
+                return True
         return False
         
