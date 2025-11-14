@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sanjanav2102/LeetCode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0198-house-robber](https://github.com/sanjanav2102/LeetCode-Solutions/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/sanjanav2102/LeetCode-Solutions/tree/master/0200-number-of-islands) |
+| [0209-minimum-size-subarray-sum](https://github.com/sanjanav2102/LeetCode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0283-move-zeroes](https://github.com/sanjanav2102/LeetCode-Solutions/tree/master/0283-move-zeroes) |
 | [0643-maximum-average-subarray-i](https://github.com/sanjanav2102/LeetCode-Solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0713-subarray-product-less-than-k](https://github.com/sanjanav2102/LeetCode-Solutions/tree/master/0713-subarray-product-less-than-k) |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/sanjanav2102/LeetCode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0713-subarray-product-less-than-k](https://github.com/sanjanav2102/LeetCode-Solutions/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/sanjanav2102/LeetCode-Solutions/tree/master/0724-find-pivot-index) |
 | [1603-running-sum-of-1d-array](https://github.com/sanjanav2102/LeetCode-Solutions/tree/master/1603-running-sum-of-1d-array) |
@@ -117,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sanjanav2102/LeetCode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0209-minimum-size-subarray-sum](https://github.com/sanjanav2102/LeetCode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0713-subarray-product-less-than-k](https://github.com/sanjanav2102/LeetCode-Solutions/tree/master/0713-subarray-product-less-than-k) |
 ## Greedy
 |  |
@@ -131,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/sanjanav2102/LeetCode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0209-minimum-size-subarray-sum](https://github.com/sanjanav2102/LeetCode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0643-maximum-average-subarray-i](https://github.com/sanjanav2102/LeetCode-Solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0713-subarray-product-less-than-k](https://github.com/sanjanav2102/LeetCode-Solutions/tree/master/0713-subarray-product-less-than-k) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/sanjanav2102/LeetCode-Solutions/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
