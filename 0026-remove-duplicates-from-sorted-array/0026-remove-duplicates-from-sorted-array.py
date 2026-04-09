@@ -1,16 +1,10 @@
 class Solution(object):
     def removeDuplicates(self, nums):
-        l = 0
-        r = 1
-        k=1
-        for r in range(0,len(nums)):
-            if (nums[l] == nums[r]):
-                r+=1
-            else:
-                nums[l+1] = nums[r]
-                k+=1
-                l+=1
-                r+=1
-        return k
+        i=0
+        for j in range(1,len(nums)):
+            if nums[i] != nums[j]:
+                nums[i+1] = nums[j]
+                i+=1
+        return i+1
 
         
