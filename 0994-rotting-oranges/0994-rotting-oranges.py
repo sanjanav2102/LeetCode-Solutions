@@ -27,6 +27,7 @@ class Solution(object):
                 nc = c+dc[i]
                 if (nr>=0 and nr<n and nc>=0 and nc<m and vis[nr][nc] ==0 and grid[nr][nc] == 1):
                     q.append([[nr,nc],time+1])
+                    grid[nr][nc] = 2
                     vis[nr][nc] = 1
         for i in range(n):
             for j in range(m):
