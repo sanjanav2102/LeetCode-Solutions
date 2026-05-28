@@ -1,11 +1,12 @@
 class Solution(object):
     def singleNonDuplicate(self, nums):
-        d = {}
-        for i in nums:
-            if i not in d:
-                d[i] = 1
+        left, right = 0, len(nums) - 1
+        while left < right:
+            mid = (left + right) // 2
+            if mid % 2 == 1:
+                mid -= 1
+            if nums[mid] != nums[mid + 1]:
+                right = mid
             else:
-                d[i]+=1
-        for i in d:
-            if d[i] == 1:
-                return i
+                left = mid + 2
+        return nums[left]
