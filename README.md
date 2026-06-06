@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/sanjanav2102/LeetCode-Solutions/tree/master/0009-palindrome-number) |
 | [0070-climbing-stairs](https://github.com/sanjanav2102/LeetCode-Solutions/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/sanjanav2102/LeetCode-Solutions/tree/master/0202-happy-number) |
+| [2447-number-of-subarrays-with-gcd-equal-to-k](https://github.com/sanjanav2102/LeetCode-Solutions/tree/master/2447-number-of-subarrays-with-gcd-equal-to-k) |
 | [2470-number-of-subarrays-with-lcm-equal-to-k](https://github.com/sanjanav2102/LeetCode-Solutions/tree/master/2470-number-of-subarrays-with-lcm-equal-to-k) |
 ## Dynamic Programming
 |  |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0994-rotting-oranges](https://github.com/sanjanav2102/LeetCode-Solutions/tree/master/0994-rotting-oranges) |
 | [1019-squares-of-a-sorted-array](https://github.com/sanjanav2102/LeetCode-Solutions/tree/master/1019-squares-of-a-sorted-array) |
 | [1603-running-sum-of-1d-array](https://github.com/sanjanav2102/LeetCode-Solutions/tree/master/1603-running-sum-of-1d-array) |
+| [2447-number-of-subarrays-with-gcd-equal-to-k](https://github.com/sanjanav2102/LeetCode-Solutions/tree/master/2447-number-of-subarrays-with-gcd-equal-to-k) |
 | [2470-number-of-subarrays-with-lcm-equal-to-k](https://github.com/sanjanav2102/LeetCode-Solutions/tree/master/2470-number-of-subarrays-with-lcm-equal-to-k) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/sanjanav2102/LeetCode-Solutions/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Prefix Sum
@@ -196,5 +198,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [2447-number-of-subarrays-with-gcd-equal-to-k](https://github.com/sanjanav2102/LeetCode-Solutions/tree/master/2447-number-of-subarrays-with-gcd-equal-to-k) |
 | [2470-number-of-subarrays-with-lcm-equal-to-k](https://github.com/sanjanav2102/LeetCode-Solutions/tree/master/2470-number-of-subarrays-with-lcm-equal-to-k) |
 <!---LeetCode Topics End-->
