@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0713-subarray-product-less-than-k](https://github.com/sanjanav2102/LeetCode-Solutions/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/sanjanav2102/LeetCode-Solutions/tree/master/0724-find-pivot-index) |
 | [0733-flood-fill](https://github.com/sanjanav2102/LeetCode-Solutions/tree/master/0733-flood-fill) |
+| [0912-sort-an-array](https://github.com/sanjanav2102/LeetCode-Solutions/tree/master/0912-sort-an-array) |
 | [0941-valid-mountain-array](https://github.com/sanjanav2102/LeetCode-Solutions/tree/master/0941-valid-mountain-array) |
 | [0994-rotting-oranges](https://github.com/sanjanav2102/LeetCode-Solutions/tree/master/0994-rotting-oranges) |
 | [1019-squares-of-a-sorted-array](https://github.com/sanjanav2102/LeetCode-Solutions/tree/master/1019-squares-of-a-sorted-array) |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/sanjanav2102/LeetCode-Solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/sanjanav2102/LeetCode-Solutions/tree/master/0053-maximum-subarray) |
+| [0912-sort-an-array](https://github.com/sanjanav2102/LeetCode-Solutions/tree/master/0912-sort-an-array) |
 ## Linked List
 |  |
 | ------- |
@@ -182,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/sanjanav2102/LeetCode-Solutions/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/sanjanav2102/LeetCode-Solutions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/sanjanav2102/LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
+| [0912-sort-an-array](https://github.com/sanjanav2102/LeetCode-Solutions/tree/master/0912-sort-an-array) |
 | [1019-squares-of-a-sorted-array](https://github.com/sanjanav2102/LeetCode-Solutions/tree/master/1019-squares-of-a-sorted-array) |
 ## Sliding Window
 |  |
@@ -232,4 +235,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/sanjanav2102/LeetCode-Solutions/tree/master/0204-count-primes) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/sanjanav2102/LeetCode-Solutions/tree/master/0912-sort-an-array) |
+## Merge Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/sanjanav2102/LeetCode-Solutions/tree/master/0912-sort-an-array) |
+## Bucket Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/sanjanav2102/LeetCode-Solutions/tree/master/0912-sort-an-array) |
+## Radix Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/sanjanav2102/LeetCode-Solutions/tree/master/0912-sort-an-array) |
+## Counting Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/sanjanav2102/LeetCode-Solutions/tree/master/0912-sort-an-array) |
 <!---LeetCode Topics End-->
