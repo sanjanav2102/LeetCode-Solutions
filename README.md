@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/sanjanav2102/LeetCode-Solutions/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/sanjanav2102/LeetCode-Solutions/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/sanjanav2102/LeetCode-Solutions/tree/master/0204-count-primes) |
+| [0633-sum-of-square-numbers](https://github.com/sanjanav2102/LeetCode-Solutions/tree/master/0633-sum-of-square-numbers) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/sanjanav2102/LeetCode-Solutions/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [2447-number-of-subarrays-with-gcd-equal-to-k](https://github.com/sanjanav2102/LeetCode-Solutions/tree/master/2447-number-of-subarrays-with-gcd-equal-to-k) |
 | [2470-number-of-subarrays-with-lcm-equal-to-k](https://github.com/sanjanav2102/LeetCode-Solutions/tree/master/2470-number-of-subarrays-with-lcm-equal-to-k) |
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/sanjanav2102/LeetCode-Solutions/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/sanjanav2102/LeetCode-Solutions/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/sanjanav2102/LeetCode-Solutions/tree/master/0345-reverse-vowels-of-a-string) |
+| [0633-sum-of-square-numbers](https://github.com/sanjanav2102/LeetCode-Solutions/tree/master/0633-sum-of-square-numbers) |
 | [0647-palindromic-substrings](https://github.com/sanjanav2102/LeetCode-Solutions/tree/master/0647-palindromic-substrings) |
 | [0908-middle-of-the-linked-list](https://github.com/sanjanav2102/LeetCode-Solutions/tree/master/0908-middle-of-the-linked-list) |
 | [1019-squares-of-a-sorted-array](https://github.com/sanjanav2102/LeetCode-Solutions/tree/master/1019-squares-of-a-sorted-array) |
@@ -164,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sanjanav2102/LeetCode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/sanjanav2102/LeetCode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/sanjanav2102/LeetCode-Solutions/tree/master/0540-single-element-in-a-sorted-array) |
+| [0633-sum-of-square-numbers](https://github.com/sanjanav2102/LeetCode-Solutions/tree/master/0633-sum-of-square-numbers) |
 | [0713-subarray-product-less-than-k](https://github.com/sanjanav2102/LeetCode-Solutions/tree/master/0713-subarray-product-less-than-k) |
 ## Greedy
 |  |
