@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/sanjanav2102/LeetCode-Solutions/tree/master/0204-count-primes) |
 | [0633-sum-of-square-numbers](https://github.com/sanjanav2102/LeetCode-Solutions/tree/master/0633-sum-of-square-numbers) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/sanjanav2102/LeetCode-Solutions/tree/master/1523-count-odd-numbers-in-an-interval-range) |
+| [2344-minimum-deletions-to-make-array-divisible](https://github.com/sanjanav2102/LeetCode-Solutions/tree/master/2344-minimum-deletions-to-make-array-divisible) |
 | [2447-number-of-subarrays-with-gcd-equal-to-k](https://github.com/sanjanav2102/LeetCode-Solutions/tree/master/2447-number-of-subarrays-with-gcd-equal-to-k) |
 | [2470-number-of-subarrays-with-lcm-equal-to-k](https://github.com/sanjanav2102/LeetCode-Solutions/tree/master/2470-number-of-subarrays-with-lcm-equal-to-k) |
 ## Dynamic Programming
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0994-rotting-oranges](https://github.com/sanjanav2102/LeetCode-Solutions/tree/master/0994-rotting-oranges) |
 | [1019-squares-of-a-sorted-array](https://github.com/sanjanav2102/LeetCode-Solutions/tree/master/1019-squares-of-a-sorted-array) |
 | [1603-running-sum-of-1d-array](https://github.com/sanjanav2102/LeetCode-Solutions/tree/master/1603-running-sum-of-1d-array) |
+| [2344-minimum-deletions-to-make-array-divisible](https://github.com/sanjanav2102/LeetCode-Solutions/tree/master/2344-minimum-deletions-to-make-array-divisible) |
 | [2447-number-of-subarrays-with-gcd-equal-to-k](https://github.com/sanjanav2102/LeetCode-Solutions/tree/master/2447-number-of-subarrays-with-gcd-equal-to-k) |
 | [2470-number-of-subarrays-with-lcm-equal-to-k](https://github.com/sanjanav2102/LeetCode-Solutions/tree/master/2470-number-of-subarrays-with-lcm-equal-to-k) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/sanjanav2102/LeetCode-Solutions/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -186,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/sanjanav2102/LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0912-sort-an-array](https://github.com/sanjanav2102/LeetCode-Solutions/tree/master/0912-sort-an-array) |
 | [1019-squares-of-a-sorted-array](https://github.com/sanjanav2102/LeetCode-Solutions/tree/master/1019-squares-of-a-sorted-array) |
+| [2344-minimum-deletions-to-make-array-divisible](https://github.com/sanjanav2102/LeetCode-Solutions/tree/master/2344-minimum-deletions-to-make-array-divisible) |
 ## Sliding Window
 |  |
 | ------- |
@@ -229,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/sanjanav2102/LeetCode-Solutions/tree/master/0204-count-primes) |
+| [2344-minimum-deletions-to-make-array-divisible](https://github.com/sanjanav2102/LeetCode-Solutions/tree/master/2344-minimum-deletions-to-make-array-divisible) |
 | [2447-number-of-subarrays-with-gcd-equal-to-k](https://github.com/sanjanav2102/LeetCode-Solutions/tree/master/2447-number-of-subarrays-with-gcd-equal-to-k) |
 | [2470-number-of-subarrays-with-lcm-equal-to-k](https://github.com/sanjanav2102/LeetCode-Solutions/tree/master/2470-number-of-subarrays-with-lcm-equal-to-k) |
 ## Enumeration
@@ -239,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/sanjanav2102/LeetCode-Solutions/tree/master/0912-sort-an-array) |
+| [2344-minimum-deletions-to-make-array-divisible](https://github.com/sanjanav2102/LeetCode-Solutions/tree/master/2344-minimum-deletions-to-make-array-divisible) |
 ## Merge Sort
 |  |
 | ------- |
