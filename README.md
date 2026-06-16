@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0633-sum-of-square-numbers](https://github.com/sanjanav2102/LeetCode-Solutions/tree/master/0633-sum-of-square-numbers) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/sanjanav2102/LeetCode-Solutions/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [2344-minimum-deletions-to-make-array-divisible](https://github.com/sanjanav2102/LeetCode-Solutions/tree/master/2344-minimum-deletions-to-make-array-divisible) |
+| [2396-strictly-palindromic-number](https://github.com/sanjanav2102/LeetCode-Solutions/tree/master/2396-strictly-palindromic-number) |
 | [2447-number-of-subarrays-with-gcd-equal-to-k](https://github.com/sanjanav2102/LeetCode-Solutions/tree/master/2447-number-of-subarrays-with-gcd-equal-to-k) |
 | [2470-number-of-subarrays-with-lcm-equal-to-k](https://github.com/sanjanav2102/LeetCode-Solutions/tree/master/2470-number-of-subarrays-with-lcm-equal-to-k) |
 ## Dynamic Programming
@@ -168,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0908-middle-of-the-linked-list](https://github.com/sanjanav2102/LeetCode-Solutions/tree/master/0908-middle-of-the-linked-list) |
 | [1019-squares-of-a-sorted-array](https://github.com/sanjanav2102/LeetCode-Solutions/tree/master/1019-squares-of-a-sorted-array) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/sanjanav2102/LeetCode-Solutions/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
+| [2396-strictly-palindromic-number](https://github.com/sanjanav2102/LeetCode-Solutions/tree/master/2396-strictly-palindromic-number) |
 ## Binary Search
 |  |
 | ------- |
@@ -279,4 +281,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/sanjanav2102/LeetCode-Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Brainteaser
+|  |
+| ------- |
+| [2396-strictly-palindromic-number](https://github.com/sanjanav2102/LeetCode-Solutions/tree/master/2396-strictly-palindromic-number) |
 <!---LeetCode Topics End-->
