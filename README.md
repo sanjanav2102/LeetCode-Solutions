@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2344-minimum-deletions-to-make-array-divisible](https://github.com/sanjanav2102/LeetCode-Solutions/tree/master/2344-minimum-deletions-to-make-array-divisible) |
 | [2447-number-of-subarrays-with-gcd-equal-to-k](https://github.com/sanjanav2102/LeetCode-Solutions/tree/master/2447-number-of-subarrays-with-gcd-equal-to-k) |
 | [2470-number-of-subarrays-with-lcm-equal-to-k](https://github.com/sanjanav2102/LeetCode-Solutions/tree/master/2470-number-of-subarrays-with-lcm-equal-to-k) |
+| [2540-minimum-common-value](https://github.com/sanjanav2102/LeetCode-Solutions/tree/master/2540-minimum-common-value) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/sanjanav2102/LeetCode-Solutions/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Prefix Sum
 |  |
@@ -177,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1019-squares-of-a-sorted-array](https://github.com/sanjanav2102/LeetCode-Solutions/tree/master/1019-squares-of-a-sorted-array) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/sanjanav2102/LeetCode-Solutions/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2396-strictly-palindromic-number](https://github.com/sanjanav2102/LeetCode-Solutions/tree/master/2396-strictly-palindromic-number) |
+| [2540-minimum-common-value](https://github.com/sanjanav2102/LeetCode-Solutions/tree/master/2540-minimum-common-value) |
 ## Binary Search
 |  |
 | ------- |
@@ -193,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/sanjanav2102/LeetCode-Solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0633-sum-of-square-numbers](https://github.com/sanjanav2102/LeetCode-Solutions/tree/master/0633-sum-of-square-numbers) |
 | [0713-subarray-product-less-than-k](https://github.com/sanjanav2102/LeetCode-Solutions/tree/master/0713-subarray-product-less-than-k) |
+| [2540-minimum-common-value](https://github.com/sanjanav2102/LeetCode-Solutions/tree/master/2540-minimum-common-value) |
 ## Greedy
 |  |
 | ------- |
@@ -224,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/sanjanav2102/LeetCode-Solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/sanjanav2102/LeetCode-Solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0202-happy-number](https://github.com/sanjanav2102/LeetCode-Solutions/tree/master/0202-happy-number) |
+| [2540-minimum-common-value](https://github.com/sanjanav2102/LeetCode-Solutions/tree/master/2540-minimum-common-value) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/sanjanav2102/LeetCode-Solutions/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Monotonic Stack
 |  |
