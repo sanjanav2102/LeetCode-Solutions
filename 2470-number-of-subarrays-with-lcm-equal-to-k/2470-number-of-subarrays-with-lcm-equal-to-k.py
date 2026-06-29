@@ -13,6 +13,8 @@ class Solution(object):
                 lcm = self.findlcm(lcm,nums[j])
                 if lcm == k:
                     c+=1
+                elif lcm > k:
+                    break
             
         return c
 
