@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/sanjanav2102/LeetCode-Solutions/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/sanjanav2102/LeetCode-Solutions/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/sanjanav2102/LeetCode-Solutions/tree/master/0204-count-primes) |
+| [0365-water-and-jug-problem](https://github.com/sanjanav2102/LeetCode-Solutions/tree/master/0365-water-and-jug-problem) |
 | [0371-sum-of-two-integers](https://github.com/sanjanav2102/LeetCode-Solutions/tree/master/0371-sum-of-two-integers) |
 | [0509-fibonacci-number](https://github.com/sanjanav2102/LeetCode-Solutions/tree/master/0509-fibonacci-number) |
 | [0633-sum-of-square-numbers](https://github.com/sanjanav2102/LeetCode-Solutions/tree/master/0633-sum-of-square-numbers) |
@@ -112,12 +113,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/sanjanav2102/LeetCode-Solutions/tree/master/0200-number-of-islands) |
+| [0365-water-and-jug-problem](https://github.com/sanjanav2102/LeetCode-Solutions/tree/master/0365-water-and-jug-problem) |
 | [0547-number-of-provinces](https://github.com/sanjanav2102/LeetCode-Solutions/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/sanjanav2102/LeetCode-Solutions/tree/master/0733-flood-fill) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/sanjanav2102/LeetCode-Solutions/tree/master/0200-number-of-islands) |
+| [0365-water-and-jug-problem](https://github.com/sanjanav2102/LeetCode-Solutions/tree/master/0365-water-and-jug-problem) |
 | [0547-number-of-provinces](https://github.com/sanjanav2102/LeetCode-Solutions/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/sanjanav2102/LeetCode-Solutions/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/sanjanav2102/LeetCode-Solutions/tree/master/0994-rotting-oranges) |
