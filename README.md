@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/sanjanav2102/LeetCode-Solutions/tree/master/0204-count-primes) |
 | [0209-minimum-size-subarray-sum](https://github.com/sanjanav2102/LeetCode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0283-move-zeroes](https://github.com/sanjanav2102/LeetCode-Solutions/tree/master/0283-move-zeroes) |
+| [0349-intersection-of-two-arrays](https://github.com/sanjanav2102/LeetCode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0540-single-element-in-a-sorted-array](https://github.com/sanjanav2102/LeetCode-Solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0643-maximum-average-subarray-i](https://github.com/sanjanav2102/LeetCode-Solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0713-subarray-product-less-than-k](https://github.com/sanjanav2102/LeetCode-Solutions/tree/master/0713-subarray-product-less-than-k) |
@@ -179,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/sanjanav2102/LeetCode-Solutions/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/sanjanav2102/LeetCode-Solutions/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/sanjanav2102/LeetCode-Solutions/tree/master/0345-reverse-vowels-of-a-string) |
+| [0349-intersection-of-two-arrays](https://github.com/sanjanav2102/LeetCode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0633-sum-of-square-numbers](https://github.com/sanjanav2102/LeetCode-Solutions/tree/master/0633-sum-of-square-numbers) |
 | [0647-palindromic-substrings](https://github.com/sanjanav2102/LeetCode-Solutions/tree/master/0647-palindromic-substrings) |
 | [0908-middle-of-the-linked-list](https://github.com/sanjanav2102/LeetCode-Solutions/tree/master/0908-middle-of-the-linked-list) |
@@ -199,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/sanjanav2102/LeetCode-Solutions/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sanjanav2102/LeetCode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/sanjanav2102/LeetCode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
+| [0349-intersection-of-two-arrays](https://github.com/sanjanav2102/LeetCode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0540-single-element-in-a-sorted-array](https://github.com/sanjanav2102/LeetCode-Solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0633-sum-of-square-numbers](https://github.com/sanjanav2102/LeetCode-Solutions/tree/master/0633-sum-of-square-numbers) |
 | [0713-subarray-product-less-than-k](https://github.com/sanjanav2102/LeetCode-Solutions/tree/master/0713-subarray-product-less-than-k) |
@@ -215,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/sanjanav2102/LeetCode-Solutions/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/sanjanav2102/LeetCode-Solutions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/sanjanav2102/LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
+| [0349-intersection-of-two-arrays](https://github.com/sanjanav2102/LeetCode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0912-sort-an-array](https://github.com/sanjanav2102/LeetCode-Solutions/tree/master/0912-sort-an-array) |
 | [1019-squares-of-a-sorted-array](https://github.com/sanjanav2102/LeetCode-Solutions/tree/master/1019-squares-of-a-sorted-array) |
 | [2344-minimum-deletions-to-make-array-divisible](https://github.com/sanjanav2102/LeetCode-Solutions/tree/master/2344-minimum-deletions-to-make-array-divisible) |
@@ -234,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/sanjanav2102/LeetCode-Solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/sanjanav2102/LeetCode-Solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0202-happy-number](https://github.com/sanjanav2102/LeetCode-Solutions/tree/master/0202-happy-number) |
+| [0349-intersection-of-two-arrays](https://github.com/sanjanav2102/LeetCode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [2540-minimum-common-value](https://github.com/sanjanav2102/LeetCode-Solutions/tree/master/2540-minimum-common-value) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/sanjanav2102/LeetCode-Solutions/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Monotonic Stack
